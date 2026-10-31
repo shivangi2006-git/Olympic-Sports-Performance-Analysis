@@ -54,3 +54,7 @@ The project focuses on exploring Olympic sports data to understand performance p
 
 5. Open your browser and visit:
    `http://127.0.0.1:5000/`
+
+## Author
+
+Academic project on Olympic sports performance analysis, developed using Python and Flask.
