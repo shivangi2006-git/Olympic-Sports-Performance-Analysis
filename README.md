@@ -23,14 +23,16 @@ Olympic Sports Performance Analysis is a data-visualization project developed us
 
 ## Dashboard Highlights
 
-Medal distribution by country
 
-Medal trends over time
+- Presents Olympic sports performance information in a visual format.
 
-Average medals per athlete and country metrics
+- Provides a dedicated dashboard page for exploring sports-related data.
 
-Regional efficiency and sport-category distribution
+- Helps users understand performance patterns and trends.
 
-Investment-versus-medal comparisons
+- Offers an organized and user-friendly interface.
+
+- Connects the dashboard with the Flask web application.
+
 
 Host-country comparisons
