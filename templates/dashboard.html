@@ -1,0 +1,45 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Dashboard | Olympic Analytics</title>
+  <link href="{{ url_for('static', filename='assets/vendor/bootstrap/css/bootstrap.min.css') }}" rel="stylesheet">
+  <link href="{{ url_for('static', filename='assets/vendor/bootstrap-icons/bootstrap-icons.css') }}" rel="stylesheet">
+  <link href="{{ url_for('static', filename='assets/css/main.css') }}" rel="stylesheet">
+  <script type="module" src="https://public.tableau.com/javascripts/api/tableau.embedding.3.latest.min.js"></script>
+</head>
+<body>
+<header id="header" class="header d-flex align-items-center fixed-top">
+  <div class="container-fluid container-xl d-flex align-items-center">
+    <a class="logo me-auto" href="{{ url_for('home') }}"><h1 class="sitename">Olympic Analytics</h1></a>
+    <nav class="navmenu"><ul>
+      <li><a href="{{ url_for('home') }}">Home</a></li>
+      <li><a class="active" href="{{ url_for('dashboard') }}">Dashboard</a></li>
+      <li><a href="{{ url_for('story') }}">Story</a></li>
+    </ul></nav>
+  </div>
+</header>
+<main class="main" style="padding-top:110px">
+  <section class="section">
+    <div class="container section-title">
+      <h2>Interactive Tableau Dashboard</h2>
+      <p>Explore Olympic sports performance and results.</p>
+    </div>
+    <div class="container">
+      <!-- Replace the placeholder src with your published Tableau dashboard view URL. -->
+      <tableau-viz
+    src="https://public.tableau.com/views/Olympic_Sports_Perfomance_Analysis/OlympicPerfomanceDashboard?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link"
+    toolbar="bottom"
+    hide-tabs
+    width = "100%"
+    height = "850">
+</tableau-viz>
+        toolbar="bottom" hide-tabs width="100%" height="850"></tableau-viz>
+    </div>
+  </section>
+</main>
+<script src="{{ url_for('static', filename='assets/vendor/bootstrap/js/bootstrap.bundle.min.js') }}"></script>
+<script src="{{ url_for('static', filename='assets/js/main.js') }}"></script>
+</body>
+</html>
