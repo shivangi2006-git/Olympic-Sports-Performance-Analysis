@@ -34,5 +34,6 @@ Olympic Sports Performance Analysis is a data-visualization project developed us
 
 - Connects the dashboard with the Flask web application.
 
+## Data and Interpretation Note
 
-Host-country comparisons
+The project focuses on exploring Olympic sports data to understand performance patterns and trends. The accuracy of insights depends on the availability, quality, and completeness of the dataset. Visualizations are intended to make the information easier to understand and interpret.
