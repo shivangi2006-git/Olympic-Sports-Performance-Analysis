@@ -21,4 +21,11 @@ Tableau Public Profile: https://public.tableau.com/views/Olympic_Sports_Perfoman
 
 Olympic Sports Performance Analysis is a data-visualization project developed using Python, Flask, and web technologies. It focuses on exploring Olympic sports data and presenting performance-related information through a web application. The website provides access to the project's Home, Dashboard, and Story pages.
 
+## Dashboard Highlights
 
+Medal distribution by country
+Medal trends over time
+Average medals per athlete and country metrics
+Regional efficiency and sport-category distribution
+Investment-versus-medal comparisons
+Host-country comparisons
