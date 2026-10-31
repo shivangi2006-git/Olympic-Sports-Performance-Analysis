@@ -24,8 +24,13 @@ Olympic Sports Performance Analysis is a data-visualization project developed us
 ## Dashboard Highlights
 
 Medal distribution by country
+
 Medal trends over time
+
 Average medals per athlete and country metrics
+
 Regional efficiency and sport-category distribution
+
 Investment-versus-medal comparisons
+
 Host-country comparisons
