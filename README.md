@@ -17,5 +17,8 @@ GitHub Repository: https://github.com/shivangi2006-git/Olympic-Sports-Performanc
 
 Tableau Public Profile: https://public.tableau.com/views/Olympic_Sports_Perfomance_Analysis/Story1?:language=en-GB&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
 
+## Project Overview
+
+Olympic Sports Performance Analysis is a data-visualization project developed using Python, Flask, and web technologies. It focuses on exploring Olympic sports data and presenting performance-related information through a web application. The website provides access to the project's Home, Dashboard, and Story pages.
 
 
