@@ -37,3 +37,20 @@ Olympic Sports Performance Analysis is a data-visualization project developed us
 ## Data and Interpretation Note
 
 The project focuses on exploring Olympic sports data to understand performance patterns and trends. The accuracy of insights depends on the availability, quality, and completeness of the dataset. Visualizations are intended to make the information easier to understand and interpret.
+
+## Run Locally
+
+1. Clone the GitHub repository:
+   `git clone https://github.com/shivangi2006-git/Olympic-Sports-Performance-Analysis.git`
+
+2. Open the project folder:
+   `cd Olympic-Sports-Performance-Analysis`
+
+3. Install the required dependencies:
+   `pip install -r requirements.txt`
+
+4. Run the Flask application:
+   `python app.py`
+
+5. Open your browser and visit:
+   `http://127.0.0.1:5000/`
