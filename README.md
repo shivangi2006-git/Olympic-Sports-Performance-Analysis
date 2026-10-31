@@ -1,12 +1,10 @@
 # Olympic-Sports-Performance-Analysis
 A Flask-based website with Tableau Olympic sports performance dashboard and story.
-Project Documentation
-Explore the detailed project documentation below:
+## 📚 Project Documentation
 
-1. Project Overview
+Click below to view the complete project documentation:
 
-2. Data Analysis
-
-3. Visualization and Dashboard
-
-4. Results and Conclusion
+1. [Project Overview](./01_PROJECT_OVERVIEW.pdf)
+2. [Data Analysis](./02_DATA_ANALYSIS.pdf)
+3. [Visualization and Dashboard](./03_VISUALIZATION_AND_DASHBOARD.pdf)
+4. [Results and Conclusion](./04_RESULTS_AND_CONCLUSION.pdf)
